@@ -1,3 +1,4 @@
+import Banner from "./assets/images/banner.jpeg";
 import Image01 from "./assets/images/01.jpg";
 import Image02 from "./assets/images/02.jpg";
 import Image03 from "./assets/images/03.jpg";
@@ -365,6 +366,10 @@ const images = [
 function App() {
   return (
     <div className="products">
+      <div className="products__banner">
+        <img src={Banner} alt="Banner" />
+      </div>
+
       {images.map((image) => (
         <article className="products__card" key={image.id}>
           <img src={image.img} alt={image.name} />
