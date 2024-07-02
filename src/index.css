@@ -20,6 +20,8 @@ img {
   display: grid;
   gap: 2rem;
   padding: 3rem 1rem;
+  max-width: 420px;
+  margin: 0 auto;
 }
 
 .products__card {

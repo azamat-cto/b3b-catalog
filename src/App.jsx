@@ -59,6 +59,18 @@ import Image57 from "./assets/images/57.jpeg";
 import Image58 from "./assets/images/58.jpeg";
 import Image59 from "./assets/images/59.jpeg";
 import Image60 from "./assets/images/60.jpeg";
+import Image61 from "./assets/images/61.jpg";
+import Image62 from "./assets/images/62.jpg";
+import Image63 from "./assets/images/63.jpg";
+import Image64 from "./assets/images/64.jpg";
+import Image65 from "./assets/images/65.jpg";
+import Image66 from "./assets/images/66.jpg";
+import Image67 from "./assets/images/67.jpg";
+import Image68 from "./assets/images/68.jpg";
+import Image69 from "./assets/images/69.jpg";
+import Image70 from "./assets/images/70.jpg";
+import Image71 from "./assets/images/71.jpg";
+import Image72 from "./assets/images/72.jpg";
 
 const images = [
   {
@@ -360,6 +372,66 @@ const images = [
     id: 60,
     img: Image60,
     name: "Image 60",
+  },
+  {
+    id: 61,
+    img: Image61,
+    name: "Image 61",
+  },
+  {
+    id: 62,
+    img: Image62,
+    name: "Image 62",
+  },
+  {
+    id: 63,
+    img: Image63,
+    name: "Image 63",
+  },
+  {
+    id: 64,
+    img: Image64,
+    name: "Image 64",
+  },
+  {
+    id: 65,
+    img: Image65,
+    name: "Image 65",
+  },
+  {
+    id: 66,
+    img: Image66,
+    name: "Image 66",
+  },
+  {
+    id: 67,
+    img: Image67,
+    name: "Image 67",
+  },
+  {
+    id: 68,
+    img: Image68,
+    name: "Image 68",
+  },
+  {
+    id: 69,
+    img: Image69,
+    name: "Image 69",
+  },
+  {
+    id: 70,
+    img: Image70,
+    name: "Image 70",
+  },
+  {
+    id: 71,
+    img: Image71,
+    name: "Image 71",
+  },
+  {
+    id: 72,
+    img: Image72,
+    name: "Image 72",
   },
 ];
 
