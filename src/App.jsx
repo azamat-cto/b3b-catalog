@@ -72,7 +72,331 @@ import Image70 from "./assets/images/70.jpg";
 import Image71 from "./assets/images/71.jpg";
 import Image72 from "./assets/images/72.jpg";
 
+// new
+import Image73 from "./assets/images/new/photo_1_2024-07-19_22-42-16.jpg"
+import Image74 from "./assets/images/new/photo_2_2024-07-19_22-42-16.jpg"
+import Image75 from "./assets/images/new/photo_3_2024-07-19_22-42-16.jpg"
+import Image76 from "./assets/images/new/photo_4_2024-07-19_22-42-16.jpg"
+import Image77 from "./assets/images/new/photo_5_2024-07-19_22-42-16.jpg"
+import Image78 from "./assets/images/new/photo_6_2024-07-19_22-42-16.jpg"
+import Image79 from "./assets/images/new/photo_7_2024-07-19_22-42-16.jpg"
+import Image80 from "./assets/images/new/photo_8_2024-07-19_22-42-16.jpg"
+import Image81 from "./assets/images/new/photo_9_2024-07-19_22-42-16.jpg"
+import Image82 from "./assets/images/new/photo_10_2024-07-19_22-42-16.jpg"
+import Image83 from "./assets/images/new/photo_11_2024-07-19_22-42-16.jpg"
+import Image84 from "./assets/images/new/photo_12_2024-07-19_22-42-16.jpg"
+import Image85 from "./assets/images/new/photo_13_2024-07-19_22-42-16.jpg"
+import Image86 from "./assets/images/new/photo_14_2024-07-19_22-42-16.jpg"
+import Image87 from "./assets/images/new/photo_15_2024-07-19_22-42-16.jpg"
+import Image88 from "./assets/images/new/photo_16_2024-07-19_22-42-16.jpg"
+import Image89 from "./assets/images/new/photo_17_2024-07-19_22-42-16.jpg"
+import Image90 from "./assets/images/new/photo_18_2024-07-19_22-42-16.jpg"
+import Image91 from "./assets/images/new/photo_19_2024-07-19_22-42-16.jpg"
+import Image92 from "./assets/images/new/photo_20_2024-07-19_22-42-16.jpg"
+import Image93 from "./assets/images/new/photo_21_2024-07-19_22-42-16.jpg"
+import Image94 from "./assets/images/new/photo_22_2024-07-19_22-42-16.jpg"
+import Image95 from "./assets/images/new/photo_23_2024-07-19_22-42-16.jpg"
+import Image96 from "./assets/images/new/photo_24_2024-07-19_22-42-16.jpg"
+import Image97 from "./assets/images/new/photo_25_2024-07-19_22-42-16.jpg"
+import Image98 from "./assets/images/new/photo_26_2024-07-19_22-42-16.jpg"
+import Image99 from "./assets/images/new/photo_27_2024-07-19_22-42-16.jpg"
+import Image100 from "./assets/images/new/photo_28_2024-07-19_22-42-16.jpg"
+import Image101 from "./assets/images/new/photo_29_2024-07-19_22-42-16.jpg"
+import Image102 from "./assets/images/new/photo_30_2024-07-19_22-42-16.jpg"
+import Image103 from "./assets/images/new/photo_31_2024-07-19_22-42-16.jpg"
+import Image104 from "./assets/images/new/photo_32_2024-07-19_22-42-16.jpg"
+import Image105 from "./assets/images/new/photo_33_2024-07-19_22-42-16.jpg"
+import Image106 from "./assets/images/new/photo_34_2024-07-19_22-42-16.jpg"
+import Image107 from "./assets/images/new/photo_35_2024-07-19_22-42-16.jpg"
+import Image108 from "./assets/images/new/photo_36_2024-07-19_22-42-16.jpg"
+import Image109 from "./assets/images/new/photo_37_2024-07-19_22-42-16.jpg"
+import Image110 from "./assets/images/new/photo_38_2024-07-19_22-42-16.jpg"
+import Image111 from "./assets/images/new/photo_39_2024-07-19_22-42-16.jpg"
+import Image112 from "./assets/images/new/photo_40_2024-07-19_22-42-16.jpg"
+import Image113 from "./assets/images/new/photo_41_2024-07-19_22-42-16.jpg"
+import Image114 from "./assets/images/new/photo_42_2024-07-19_22-42-16.jpg"
+import Image115 from "./assets/images/new/photo_43_2024-07-19_22-42-16.jpg"
+import Image116 from "./assets/images/new/photo_44_2024-07-19_22-42-16.jpg"
+import Image117 from "./assets/images/new/photo_45_2024-07-19_22-42-16.jpg"
+import Image118 from "./assets/images/new/photo_46_2024-07-19_22-42-16.jpg"
+import Image119 from "./assets/images/new/photo_47_2024-07-19_22-42-16.jpg"
+import Image120 from "./assets/images/new/photo_48_2024-07-19_22-42-16.jpg"
+import Image121 from "./assets/images/new/photo_49_2024-07-19_22-42-16.jpg"
+import Image122 from "./assets/images/new/photo_50_2024-07-19_22-42-16.jpg"
+import Image123 from "./assets/images/new/photo_51_2024-07-19_22-42-16.jpg"
+import Image124 from "./assets/images/new/photo_52_2024-07-19_22-42-16.jpg"
+import Image125 from "./assets/images/new/photo_53_2024-07-19_22-42-16.jpg"
+
 const images = [
+  {
+    id: 73,
+    img: Image73,
+    name: "Image 73",
+  },
+  {
+    id: 74,
+    img: Image74,
+    name: "Image 74",
+  },
+  {
+    id: 75,
+    img: Image75,
+    name: "Image 75",
+  },
+  {
+    id: 76,
+    img: Image76,
+    name: "Image 76",
+  },
+  {
+    id: 77,
+    img: Image77,
+    name: "Image 77",
+  },
+  {
+    id: 78,
+    img: Image78,
+    name: "Image 78",
+  },
+  {
+    id: 79,
+    img: Image79,
+    name: "Image 79",
+  },
+  {
+    id: 80,
+    img: Image80,
+    name: "Image 80",
+  },
+  {
+    id: 81,
+    img: Image81,
+    name: "Image 81",
+  },
+  {
+    id: 82,
+    img: Image82,
+    name: "Image 82",
+  },
+  {
+    id: 83,
+    img: Image83,
+    name: "Image 83",
+  },
+  {
+    id: 84,
+    img: Image84,
+    name: "Image 84",
+  },
+  {
+    id: 85,
+    img: Image85,
+    name: "Image 85",
+  },
+  {
+    id: 86,
+    img: Image86,
+    name: "Image 86",
+  },
+  {
+    id: 87,
+    img: Image87,
+    name: "Image 87",
+  },
+  {
+    id: 88,
+    img: Image88,
+    name: "Image 88",
+  },
+  {
+    id: 89,
+    img: Image89,
+    name: "Image 89",
+  },
+  {
+    id: 90,
+    img: Image90,
+    name: "Image 90",
+  },
+  {
+    id: 91,
+    img: Image91,
+    name: "Image 91",
+  },
+  {
+    id: 92,
+    img: Image92,
+    name: "Image 92",
+  },
+  {
+    id: 93,
+    img: Image93,
+    name: "Image 93",
+  },
+  {
+    id: 94,
+    img: Image94,
+    name: "Image 94",
+  },
+  {
+    id: 95,
+    img: Image95,
+    name: "Image 95",
+  },
+  {
+    id: 96,
+    img: Image96,
+    name: "Image 96",
+  },
+  {
+    id: 97,
+    img: Image97,
+    name: "Image 97",
+  },
+  {
+    id: 98,
+    img: Image98,
+    name: "Image 98",
+  },
+  {
+    id: 99,
+    img: Image99,
+    name: "Image 99",
+  },
+  {
+    id: 100,
+    img: Image100,
+    name: "Image 100",
+  },
+  {
+    id: 101,
+    img: Image101,
+    name: "Image 101",
+  },
+  {
+    id: 102,
+    img: Image102,
+    name: "Image 102",
+  },
+  {
+    id: 103,
+    img: Image103,
+    name: "Image 103",
+  },
+  {
+    id: 104,
+    img: Image104,
+    name: "Image 104",
+  },
+  {
+    id: 105,
+    img: Image105,
+    name: "Image 105",
+  },
+  {
+    id: 106,
+    img: Image106,
+    name: "Image 106",
+  },
+  {
+    id: 107,
+    img: Image107,
+    name: "Image 107",
+  },
+  {
+    id: 108,
+    img: Image108,
+    name: "Image 108",
+  },
+  {
+    id: 109,
+    img: Image109,
+    name: "Image 109",
+  },
+  {
+    id: 110,
+    img: Image110,
+    name: "Image 110",
+  },
+  {
+    id: 111,
+    img: Image111,
+    name: "Image 111",
+  },
+  {
+    id: 112,
+    img: Image112,
+    name: "Image 112",
+  },
+  {
+    id: 113,
+    img: Image113,
+    name: "Image 113",
+  },
+  {
+    id: 114,
+    img: Image114,
+    name: "Image 114",
+  },
+  {
+    id: 115,
+    img: Image115,
+    name: "Image 115",
+  },
+  {
+    id: 116,
+    img: Image116,
+    name: "Image 116",
+  },
+  {
+    id: 117,
+    img: Image117,
+    name: "Image 117",
+  },
+  {
+    id: 118,
+    img: Image118,
+    name: "Image 118",
+  },
+  {
+    id: 119,
+    img: Image119,
+    name: "Image 119",
+  },
+  {
+    id: 120,
+    img: Image120,
+    name: "Image 120",
+  },
+  {
+    id: 121,
+    img: Image121,
+    name: "Image 121",
+  },
+  {
+    id: 122,
+    img: Image122,
+    name: "Image 122",
+  },
+  {
+    id: 123,
+    img: Image123,
+    name: "Image 123",
+  },
+  {
+    id: 124,
+    img: Image124,
+    name: "Image 124",
+  },
+  {
+    id: 125,
+    img: Image125,
+    name: "Image 125",
+  },
+
+
+
+
   {
     id: 1,
     img: Image01,
@@ -437,15 +761,13 @@ const images = [
 
 function App() {
   return (
-    <div className="products">
-      <div className="products__banner">
-        <img src={Banner} alt="Banner" />
-      </div>
+    <div className="grid gap-2 py-12 px-4 max-w-[420px] mx-auto">
+      <img src={Banner} alt="Banner" />
 
       {images.map((image) => (
-        <article className="products__card" key={image.id}>
+        <article className="grid gap-2 mb-4" key={image.id}>
           <img src={image.img} alt={image.name} />
-          <p>{image.name}</p>
+          <p className="-mt-12">{image.name}</p>
         </article>
       ))}
     </div>
